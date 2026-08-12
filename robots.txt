@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /merci.html
+
+Sitemap: https://avis-pas-cher.com/sitemap.xml
